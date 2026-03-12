@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.1](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-evals-v2.11.0...arize-phoenix-evals-v2.11.1) (2026-03-12)
+
+
+### Bug Fixes
+
+* **playground:** prevent OTel context leak causing duplicate trace_id in dataset runs ([#12062](https://github.com/Arize-ai/phoenix/issues/12062)) ([2a24625](https://github.com/Arize-ai/phoenix/commit/2a24625c5b390332a059266e9f05a972550c9cdc))
+
 ## [2.11.0](https://github.com/Arize-ai/phoenix/compare/arize-phoenix-evals-v2.10.0...arize-phoenix-evals-v2.11.0) (2026-02-27)
 
 
